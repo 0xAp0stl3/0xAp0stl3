@@ -35,9 +35,9 @@
 
 ## 📫 Contact
 
-- 📧 Email : *votre.email@example.com*  
+- 📧 Email : aposlepro1@gmail.com  
 - 💬 LinkedIn : [linkedin.com/in/votre-profil](https://linkedin.com/in/votre-profil)  
-- 🌐 Portfolio : https://votre-site.com  
+- 🌐 Portfolio : 🚧 En travaux 🚧
 
 ---
 

@@ -46,9 +46,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0xAp0stl3&show_icons=true&theme=default" alt="Stats GitHub"/>  
 </p>
-
----
-
-> *Ce profil README vous permet de présenter de façon claire et professionnelle vos réalisations et compétences.*  
-> Pour en savoir plus sur la personnalisation des profils GitHub : :contentReference[oaicite:1]{index=1}  
-> Pour découvrir d’autres templates et widgets : :contentReference[oaicite:2]{index=2}  

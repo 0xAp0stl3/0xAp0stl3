@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Salut, je suis Apostle (0xAp0stl3)</h1>
-  <p>Étudiant en informatique passionné par le développement bas-niveau, la 3D et les applications web.</p>
+  <p>Étudiant en informatique passionné par la cyber, le dev d'app et d'applications.</p>
 
   <!-- Badges de statut -->
   <p>

@@ -52,5 +52,3 @@
 > *Ce profil README vous permet de présenter de façon claire et professionnelle vos réalisations et compétences.*  
 > Pour en savoir plus sur la personnalisation des profils GitHub : :contentReference[oaicite:1]{index=1}  
 > Pour découvrir d’autres templates et widgets : :contentReference[oaicite:2]{index=2}  
-
-::contentReference[oaicite:3]{index=3}

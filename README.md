@@ -36,7 +36,6 @@
 ## 📫 Contact
 
 - 📧 Email : aposlepro1@gmail.com  
-- 💬 LinkedIn : [linkedin.com/in/votre-profil](https://linkedin.com/in/votre-profil)  
 - 🌐 Portfolio : 🚧 En travaux 🚧
 
 ---

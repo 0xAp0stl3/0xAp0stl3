@@ -27,9 +27,9 @@
 
 ## 🛠️ Compétences
 
-- **Langages** : C, C++, TypeScript, CSS  
-- **Outils** : Git, Make, Webpack  
-- **Concepts** : Réseaux (IRC), 3D (ray-casting), Responsive design  
+- **Langages** : C, C++, Python, CSS, Docker
+- **Outils** : Git, Make
+- **Concepts** : Réseaux (IRC), 3D (ray-casting), Responsive design ... 
 
 ---
 

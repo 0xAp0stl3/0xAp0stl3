@@ -36,7 +36,7 @@
 ## 📫 Contact
 
 - 📧 Email : aposlepro1@gmail.com  
-- 🌐 Portfolio : [ap0stle.link](url)
+- 🌐 Portfolio : [ap0stle.link](ap0stle.link)
 
 ---
 

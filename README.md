@@ -20,6 +20,7 @@
 | **cub3d**      | Petit moteur de jeu 3D (ray-caster) inspiré de Wolfenstein 3D | C        |
 | **weather-app**| Application météo responsive (HTML / CSS)                    | CSS      |
 | **portfolio**  | Mon site-portfolio personnel                                  | TypeScript |
+| **minishell**  | Un minishell simple écrit en C  | C  | 
 
 > Pour chaque projet, voyez le README dédié dans son dépôt pour plus de détails.
 
